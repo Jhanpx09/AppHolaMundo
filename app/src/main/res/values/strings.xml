@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppHolaMundo</string>
+    <string name="texto_principal">Hola mundo, esta es mi primera app</string>
+    <string name="btn_1">Ventana 2</string>
+    <string name="texto_secundario">Esta es la segunda ventana</string>
+
+</resources>
